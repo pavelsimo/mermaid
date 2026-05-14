@@ -1,4 +1,4 @@
-# mermaid
+# mermaid skill
 
 A skill for agents that generates [Mermaid](https://mermaid.js.org/) diagrams from source files, schemas, or plain-text descriptions — choosing the right diagram type automatically or using the one you specify.
 
